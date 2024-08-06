@@ -8,10 +8,11 @@ var profile = {
   career: "System Engineer at University Francisco Jose of Caldas",
   profession: "Developer",
   skills: ["JavaScript", "Go", "Python", "Angular", "React", "Relational Databases"],
-  email: "bfmumo@gmail.com",
+  email📫: "bfmumo@gmail.com",
   website: "https://redflox.com",
   portfolio: "https://bfmu.dev"
 }
+```
 
 <!--
 **redflox/redflox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
