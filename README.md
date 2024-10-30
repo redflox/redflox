@@ -4,7 +4,7 @@
 var profile = {
   name: "Bryan Felipe",
   lastname: "Muñoz Molina",
-  age: 27,
+  age: 28,
   career: "System Engineer at University Francisco Jose of Caldas",
   profession: "Developer",
   skills: ["JavaScript", "Go", "Python", "Angular", "React", "Relational Databases"],
